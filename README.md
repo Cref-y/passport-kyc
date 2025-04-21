@@ -1,4 +1,5 @@
 ## 📦 Installation
+![alt text](image.png)
 
 ### 1. Clone the Repository
 
@@ -18,6 +19,8 @@ pnpm install
 ```bash
 pnpm dev
 ```
+
+
 
 
 ## 🤝 Contributing
